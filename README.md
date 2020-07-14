@@ -8,3 +8,5 @@ Un blog increible para el curso de git y github de platzi
 * Trucos muy locos del profesor.
 * Las personalidades multiples de freddy.
 
+* Creado en el curso de Git GitHub platzi team
+
