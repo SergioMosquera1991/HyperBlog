@@ -9,9 +9,6 @@ Un blog increible para el curso de git y github de platzi
 * Las personalidades multiples de freddy.
 
 * Creado en el curso de Git GitHub platzi team
-<<<<<<< HEAD
 
-=======
 * Incluye ejemplos en windows, linux y mac.
 * Disponible a partir de cualquier edad.
->>>>>>> readme-mejorado
