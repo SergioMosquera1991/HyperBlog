@@ -10,3 +10,4 @@ Un blog increible para el curso de git y github de platzi
 
 * Creado en el curso de Git GitHub platzi team
 * Incluye ejemplos en windows, linux y mac.
+* Disponible a partir de cualquier edad.
